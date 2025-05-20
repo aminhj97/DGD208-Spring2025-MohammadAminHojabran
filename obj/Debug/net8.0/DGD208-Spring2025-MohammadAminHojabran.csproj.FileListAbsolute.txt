@@ -1,0 +1,5 @@
+D:\Work\Game Programming\DGD208-Spring2025-MohammadAminHojabran\obj\Debug\net8.0\DGD208-Spring2025-MohammadAminHojabran.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Game Programming\DGD208-Spring2025-MohammadAminHojabran\obj\Debug\net8.0\DGD208-Spring2025-MohammadAminHojabran.AssemblyInfoInputs.cache
+D:\Work\Game Programming\DGD208-Spring2025-MohammadAminHojabran\obj\Debug\net8.0\DGD208-Spring2025-MohammadAminHojabran.AssemblyInfo.cs
+D:\Work\Game Programming\DGD208-Spring2025-MohammadAminHojabran\obj\Debug\net8.0\DGD208-Spring2025-MohammadAminHojabran.csproj.CoreCompileInputs.cache
+D:\Work\Game Programming\DGD208-Spring2025-MohammadAminHojabran\obj\Debug\net8.0\DGD208-Spring2025-MohammadAminHojabran.sourcelink.json
