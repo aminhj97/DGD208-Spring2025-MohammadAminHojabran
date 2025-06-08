@@ -1,0 +1,15 @@
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\InteractivePetSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\InteractivePetSimulator.AssemblyInfoInputs.cache
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\InteractivePetSimulator.AssemblyInfo.cs
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\InteractivePetSimulator.csproj.CoreCompileInputs.cache
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\InteractivePetSimulator.sourcelink.json
+D:\Work\Game Programming\InteractivePetSimulator\bin\Debug\net8.0\InteractivePetSimulator.exe
+D:\Work\Game Programming\InteractivePetSimulator\bin\Debug\net8.0\InteractivePetSimulator.deps.json
+D:\Work\Game Programming\InteractivePetSimulator\bin\Debug\net8.0\InteractivePetSimulator.runtimeconfig.json
+D:\Work\Game Programming\InteractivePetSimulator\bin\Debug\net8.0\InteractivePetSimulator.dll
+D:\Work\Game Programming\InteractivePetSimulator\bin\Debug\net8.0\InteractivePetSimulator.pdb
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\InteractivePetSimulator.dll
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\refint\InteractivePetSimulator.dll
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\InteractivePetSimulator.pdb
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\InteractivePetSimulator.genruntimeconfig.cache
+D:\Work\Game Programming\InteractivePetSimulator\obj\Debug\net8.0\ref\InteractivePetSimulator.dll
