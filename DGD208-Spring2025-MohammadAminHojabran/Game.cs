@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 
 public class Game
 {
@@ -18,6 +19,7 @@ public class Game
                 "Adopt a Pet",
                 "View Pets",
                 "Use Item on Pet",
+                "Credits",
                 "Exit"
             });
 
@@ -26,7 +28,8 @@ public class Game
                 case 0: AdoptPet(); break;
                 case 1: ShowPets(); break;
                 case 2: UseItem(); break;
-                case 3: running = false; break;
+                case 3: ShowCredits(); break;
+                case 4: running = false; break;
             }
         }
     }
@@ -81,6 +84,14 @@ public class Game
 
         _ = item.UseAsync(pet);
     }
+    private void ShowCredits()
+    {
+        Console.Clear();
+        Console.WriteLine("=== Credits ===\n");
+        Console.WriteLine("Made by myself with help of a programmer friend in Iran, my friend Moaz in class, and ChatGPT.");
+        Console.WriteLine("\nPress any key to return to the menu...");
+        Console.ReadKey();
+    }
 
     private void HandlePetDeath(Pet pet)
     {
@@ -88,3 +99,4 @@ public class Game
         pets.Remove(pet);
     }
 }
+    
